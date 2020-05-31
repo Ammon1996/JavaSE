@@ -1,0 +1,5 @@
+#This is a comment
+#Wed May 20 14:07:23 CST 2020
+IG=23
+EDG=20
+RNG=25
